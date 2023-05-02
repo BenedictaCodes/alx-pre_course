@@ -1,1 +1,1 @@
-The first git exercise
+The first git exercise for the ALX cohort
